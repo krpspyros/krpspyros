@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**krpspyros/krpspyros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 Here are some ideas to get you started:
 
